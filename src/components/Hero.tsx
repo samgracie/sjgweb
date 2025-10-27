@@ -39,9 +39,7 @@ const Hero = () => {
 
           {/* Bio */}
           <p className="text-base md:text-lg text-text-secondary leading-relaxed mb-12 max-w-3xl">
-            Led AI/ML product design at Amazon for SageMaker Studio, Apple's AI/ML tooling platforms, 
-            and served as CPO & cofounder of an AI startup. Specialized in building AI platforms 
-            and design systems for ML engineers and data scientists working with complex technical products.
+            Senior design leader with proven success scaling ML/AI products from 0-1, including co-founding WhyLabs—a venture-backed startup—and driving 133x user growth for Amazon's ML platform. With a track record of building high-performing teams and delivering enterprise-grade UX in complex technical domains, I'm excited to embark on a new challenge and make a real impact.
           </p>
 
           {/* CTAs */}

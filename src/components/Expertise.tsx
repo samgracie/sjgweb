@@ -1,27 +1,27 @@
 const capabilities = [
   {
+    title: "Product Vision & Strategy",
+    description: "Strategic product direction, roadmap planning, and design organization leadership. Proven track record scaling products from 0-1 and driving enterprise go-to-market strategy.",
+  },
+  {
     title: "AI/ML Platform Design",
-    description: "End-to-end product design for machine learning platforms, IDE environments, and data science tooling.",
+    description: "End-to-end UX for machine learning platforms, MLOps tools, and data science environments. Deep domain knowledge in AI/ML workflows and technical product design.",
   },
   {
-    title: "Design Systems for Technical Products",
-    description: "Scalable design systems built for complex developer tools and AI applications with sophisticated workflows.",
-  },
-  {
-    title: "Notebook/IDE Environments",
-    description: "Interaction design for Jupyter-style notebooks, code editors, and integrated development environments.",
+    title: "Design Systems Architecture",
+    description: "Scalable design systems for complex technical products. Expert in component libraries, data visualization style guides, and design documentation for enterprise applications.",
   },
   {
     title: "Data Visualization & Analytics",
-    description: "Advanced data visualization systems for ML metrics, model performance, and analytical dashboards.",
+    description: "Advanced data visualization systems for ML metrics, model performance, and analytical dashboards. Patent holder for innovative graphical indicator techniques.",
   },
   {
-    title: "Developer Experience (DX)",
-    description: "User-centered design for developer-facing tools, APIs, SDKs, and technical documentation.",
+    title: "Cross-Functional Leadership",
+    description: "Building and leading high-performing design teams. Expert in stakeholder management, executive communication, and design operations optimization.",
   },
   {
-    title: "Product Leadership",
-    description: "Strategic product direction, roadmap planning, and cross-functional team leadership for AI/ML products.",
+    title: "Technical Design & Development",
+    description: "Hands-on technical UI design and prototyping with frontend development skills (HTML/CSS/JS, Python, SQL). Deep understanding of developer experience and engineering workflows.",
   },
 ];
 

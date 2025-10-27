@@ -1,24 +1,52 @@
 const experiences = [
   {
     company: "Apple",
-    role: "Design Leader, AI/ML Tooling",
-    period: "2023_PRESENT",
+    role: "Principal Designer, Machine Learning Platform and Technology",
+    period: "2025_PRESENT",
     description:
-      "Leading design for internal AI/ML tooling platforms. Building sophisticated workflows for model development, training, and deployment at scale.",
+      "AI/ML design leader in Apple's AIML org, working at the intersection of human interaction, AI, and engineering. Shaping the future of machine learning tools and platforms that empower developers and researchers.",
   },
   {
-    company: "AI Startup",
-    role: "CPO & Cofounder",
-    period: "2021_2023",
+    company: "WhyLabs",
+    role: "Co-Founder & Chief Product Officer",
+    period: "DEC_2019_2024",
     description:
-      "Chief Product Officer and cofounder building AI platform for data scientists and ML engineers. Led product strategy, design, and go-to-market.",
+      "Defined UX strategy for WhyLabs' AI Control Center, driving adoption at Fortune 500 companies across healthcare, retail, and financial services. Scaled WhyLabs from concept to enterprise-ready platform in <12 months, leading front-end team to ship 1-2 major releases per quarter. Developed WhyLabs Design System including data viz style guide and enterprise component library.",
+  },
+  {
+    company: "Amazon Web Services",
+    role: "Principal UX Designer, SageMaker Studio",
+    period: "SEP_DEC_2019",
+    description:
+      "Led UX and managed a team of 3 for SageMaker Studio launch at re:Invent 2019, the first web-based IDE for ML workflows. Directed UX and visual design for light/dark UI themes.",
   },
   {
     company: "Amazon",
-    role: "Product/UX Design, SageMaker Studio",
-    period: "2018_2021",
+    role: "Principal UX Designer - Machine Learning Platform",
+    period: "OCT_2018_AUG_2019",
     description:
-      "Led product and UX design for SageMaker Studio launch. Built IDE-style environment for ML development with integrated tooling and workflows.",
+      "Transformed Amazon's internal ML platform (Eider) from experimental tool to company-wide solution, achieving 133x growth in weekly active users (15 to 2,000+) through iterative design and close partnership with customers. Launched notebook repository fostering collaboration and knowledge sharing.",
+  },
+  {
+    company: "Amazon",
+    role: "Sr. UX Designer - Core AI",
+    period: "DEC_2016_SEP_2018",
+    description:
+      "Designed key capabilities like multi-kernel support, compute management, orchestration, and instant data warehouse access for Amazon's ML platform. Developed metrics strategy to measure success, driving significant improvements in System Usability Score (SUS) and Net Promoter Score (NPS).",
+  },
+  {
+    company: "Amazon",
+    role: "Sr. UX Designer - Amazon Advertising",
+    period: "OCT_2014_NOV_2016",
+    description:
+      "Led UX for Amazon's first programmatic advertising platform, evolving from MVP to industry-leading DSP generating $2B+ annual revenue (2016). Delivered scalable UX for campaign management workflows and performance reporting dashboards. Designed self-service component library as an extension to Amazon's retail UI.",
+  },
+  {
+    company: "Early Career",
+    role: "UX Design & Product Leadership",
+    period: "FOUNDATION",
+    description:
+      "Led end-to-end UX strategy for digital signage SaaS platform at Codigo, reducing customer onboarding time through iterative user testing. Co-founded music tech startup Resonant Vibes, securing $900k seed funding and building e-commerce platform with 6% conversion rate through data-driven UX optimization. Scaled content partnerships to 10k+ record labels in 18 months.",
   },
 ];
 
